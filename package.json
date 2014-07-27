@@ -1,0 +1,15 @@
+  {
+  "name"         : "Trace-My-Weight",
+  "version"      : "0.0.1",
+  "description"  : "Trace of the evolution of my weight.",
+  "main"         : "server.js",
+  "author"       : { "name": "Pablo Marrero",
+                     "email" : "pablo.marrero@gmail.com",
+                     "url": "www.pragmatic-minds.com"
+                   },
+  "dependencies" : {
+    "express"    : "~3.4.4",
+    "mongoose"   : "~3.6.2"
+    }
+  }
+
